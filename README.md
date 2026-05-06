@@ -9,7 +9,8 @@ This is the official repository of our paper "Exploring transferable inconsisten
 The download link is available [here](https://huggingface.co/datasets/LiyueMing/IPC).
 
 ## Citation
-  @article{MING2026113795,
+```
+@article{MING2026113795,
 title = {Exploring transferable inconsistencies with regional guidance for reference-based deepfake detection},
 journal = {Pattern Recognition},
 volume = {179},
@@ -19,3 +20,4 @@ issn = {0031-3203},
 doi = {https://doi.org/10.1016/j.patcog.2026.113795},
 author = {Liyue Ming and Peisong He and Beibei Li and Haoliang Li and Xinghao Jiang}
 }
+```
